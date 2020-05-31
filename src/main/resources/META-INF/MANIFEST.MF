@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Title: arthas-boot
+Implementation-Version: 3.2.0
+Built-By: mqm
+Specification-Title: jhunter-boot
+Created-By: 0.0.1 (Demo Inc.)
+Specification-Version: 3.2.0
+Main-Class: com.citi.jhunter.boot.Bootstrap
